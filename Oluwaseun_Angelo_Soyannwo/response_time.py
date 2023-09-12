@@ -40,7 +40,7 @@ def response_time(loops: int):
 
 
 def main():
-	
+	response_time(1)
 
 
 if __name__ == "__main__":
